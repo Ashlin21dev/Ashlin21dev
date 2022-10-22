@@ -19,6 +19,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashlin21dev&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashlin21dev)](https://github.com/Ashlin21dev/github-profile-trophy)
+
 ![Profile views](https://gpvc.arturio.dev/Ashlin21dev)
 <!--
 **Ashlin21dev/Ashlin21dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
