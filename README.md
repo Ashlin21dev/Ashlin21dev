@@ -1,6 +1,6 @@
 <h1 align="center">  Heya! <img src="https://raw.githubusercontent.com/kondekarshubham123/kondekarshubham123/master/assets/wave.gif" width="30px">, I'm Ashlin </h1>
 
-<h3 align="center">Computer Science Engineering undergrad from VIT University |  Interested in Coding,Machine Learning and Analysis</h3>
+<h3 align="center">Computer Science Engineering undergrad from VIT University |  Interested in DevOps,Machine Learning and Analysis</h3>
 
 ### Connect with me :
 
